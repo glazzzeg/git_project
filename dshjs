@@ -1,0 +1,41 @@
+[33mcommit ec611f08cb5590fc82646802c93ad30723238df8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: aakudryashov <andree97@yandex.ru>
+Date:   Mon Sep 7 22:52:57 2020 +0300
+
+    file_1 changed its name to file_1_1
+
+[33mcommit babd567295ef5c2509f003044c0d6fa8675db0d5[m
+Author: aakudryashov <andree97@yandex.ru>
+Date:   Mon Sep 7 22:49:15 2020 +0300
+
+    file_2 was deleted
+
+[33mcommit b5a9b457376c226f215d4adfc03df4d39c18a3c8[m
+Author: aakudryashov <andree97@yandex.ru>
+Date:   Mon Sep 7 22:45:38 2020 +0300
+
+    file_1 was modified file_2 was created
+
+[33mcommit 640cb1e0dc03a059d1f40c2aedc5bf0a86649a01[m
+Author: aakudryashov <andree97@yandex.ru>
+Date:   Mon Sep 7 22:36:26 2020 +0300
+
+    commit 5
+
+[33mcommit de27d714d6106df9ff05bc519d692cfb24976ec8[m
+Author: aakudryashov <andree97@yandex.ru>
+Date:   Mon Sep 7 22:35:18 2020 +0300
+
+    commit 4
+
+[33mcommit 954ae129f423d0a6bffa075a41fec95e56ff04cd[m
+Author: aakudryashov <andree97@yandex.ru>
+Date:   Mon Sep 7 22:33:18 2020 +0300
+
+    second commit
+
+[33mcommit 7ed0a655462c5e737f730ced46f1a62392ff17a0[m
+Author: aakudryashov <andree97@yandex.ru>
+Date:   Mon Sep 7 22:30:18 2020 +0300
+
+    first commiit
